@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Khalid Bin Huda Siddiqui - Nomad Software Engineer with the experience of 2.5 years. Become a software engineer by following my passion for programming.
+I am Khalid Bin Huda Siddiqui - Software Engineer with the experience of 2.5 years. Become a software engineer by following my passion for programming.
 
 - 🔭 I’m currently working in Findmyadventure as Full Stack Software Developer, FindMyAdventure is Pakistan’s first online marketplace to book trips, tours and travel across - Pakistan.
 - 🌱 I’m currently learning Clean Architecture by Uncle Bob Martin.
